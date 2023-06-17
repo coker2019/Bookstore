@@ -107,7 +107,7 @@ Clone this repository to your desired folder:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
- - [ ] Coonect to Api
+ - [ ] Connect to Api.
 -  [ ] Good User interface.
 -  [ ] Live Demo.
 
