@@ -127,7 +127,7 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+
 
 Show your support ⭐️
 If you like this project, please give it a star and share it with your friends.
